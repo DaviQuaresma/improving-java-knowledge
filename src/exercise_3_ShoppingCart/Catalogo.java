@@ -1,4 +1,4 @@
-package ShoppingCart_exercise_3;
+package exercise_3_ShoppingCart;
 
 import java.math.BigDecimal;
 import java.util.ArrayList;

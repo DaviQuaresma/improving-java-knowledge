@@ -1,4 +1,4 @@
-package ShoppingCart_exercise_3;
+package exercise_3_ShoppingCart;
 
 public class ItemCarrinho {
     private final Produto produto;

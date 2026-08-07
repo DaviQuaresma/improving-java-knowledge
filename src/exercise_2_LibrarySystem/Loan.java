@@ -1,4 +1,4 @@
-package LibrarySystem_exercise_2;
+package exercise_2_LibrarySystem;
 
 import java.util.Date;
 

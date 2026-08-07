@@ -1,4 +1,4 @@
-package BankAccount_exercise_1;
+package exercise_1_BankAccount;
 
 public class Conta {
 
